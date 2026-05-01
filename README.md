@@ -132,19 +132,20 @@ python ADALINE.py
 ```
 El programa:
 
-Carga el dataset
-Normaliza los datos
-Entrena el modelo ADALINE
-Realiza predicciones
-Genera métricas de evaluación
+- `Carga el dataset`
+- `Normaliza los datos`
+- `Entrena el modelo ADALINE`
+- `Realiza predicciones`
+- `Genera métricas de evaluación`
 
-Modelo MLP
+# Modelo MLP
+```bash
 python MLP.py
-
+```
 El programa:
 
-Carga el dataset
-Normaliza los datos
-Entrena el modelo MLP
-Evalúa el desempeño
-Genera métricas de precisión
+- `Carga el dataset`
+- `Normaliza los datos`
+- `Entrena el modelo MLP`
+- `Evalúa el desempeño`
+- `Genera métricas de precisión`
